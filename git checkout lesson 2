@@ -1,0 +1,9 @@
+[33m3f344b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: reset: moving to origin/master
+[33mb54b0cd[m HEAD@{1}: reset: moving to HEAD
+[33mb54b0cd[m HEAD@{2}: reset: moving to HEAD
+[33mb54b0cd[m HEAD@{3}: rebase (finish): returning to refs/heads/master
+[33mb54b0cd[m HEAD@{4}: rebase (continue): lesson 2 updates
+[33m3f344b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{5}: rebase (start): checkout origin/master
+[33m00586fd[m HEAD@{6}: commit (amend): lesson 2 updates
+[33m0fa36d9[m HEAD@{7}: commit (amend): lesson 2
+[33m3f344b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{8}: commit (initial): Initial commit
